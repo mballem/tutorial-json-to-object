@@ -2,12 +2,10 @@ package com.mballem.json;
 
 import com.mballem.json.converter.IConverter;
 import com.mballem.json.converter.UserConverter;
-import com.mballem.json.domain.Phone;
 import com.mballem.json.domain.User;
 
 import java.io.IOException;
 import java.io.InputStream;
-import java.util.Arrays;
 import java.util.List;
 import java.util.logging.Level;
 import java.util.logging.Logger;
